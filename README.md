@@ -25,7 +25,7 @@
 4# Edit the server.lua in lines 4, 5, 6 and change webhooks and username... <br>
 5# You are done. Open your server and if you have done everything correctly, the logging will work... <br>
 <br><br>
-<strong>Credits: </strong>
+<strong>Credits: </strong><br>
 Thanks to @Mr. Skiouraki for testing & debugging the resource
 <br><br>
 ![screenshot](https://user-images.githubusercontent.com/82139583/113983482-9fc28e00-9852-11eb-9b41-3138d05d8b56.png)
