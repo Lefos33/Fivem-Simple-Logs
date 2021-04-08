@@ -1,26 +1,26 @@
 # Fivem-Simple-Logs
 Simple FiveM Logs for player joins and leaves!
 
-Join - Leave Logs contain:
+Join - Leave Logs contain: <br>
 
-1# Steam Name
-2# Steam ID
-3# IP
-4# GTA License
-5# Discord Tag (@Test#6969)
-6# In leave logs, reason
+1# Steam Name <br>
+2# Steam ID <br>
+3# IP <br> 
+4# GTA License <br>
+5# Discord Tag (@Test#6969) <br>
+6# In leave logs, reason <br>
+<br><br>
 
+This script: <br>
+1# Cannot be dumped because it's completely serversided <br>
+2# Configurable only from server.lua <br>
+3# Uses Discord ID with <@> to tag the person <br>
+4# If something can't be found from a user, it will just not show it... <br>
+<br><br>
 
-This script:
-1# Cannot be dumped because it's completely serversided
-2# Configurable only from server.lua
-3# Uses Discord ID with <@> to tag the person
-4# If something can't be found from a user, it will just not show it...
-
-
-Download Instructions:
-1# Just drag and drop the resource to your resources folder...
-2# You can change the name if you want...
-3# Create a webhook or copy the link if you have an existing one...
-4# Edit the server.lua in lines 4, 5, 6 and change webhooks and username...
-5# You are done. Open your server and if you have done everything correctly, the logging will work...
+Download Instructions: <br>
+1# Just drag and drop the resource to your resources folder... <br>
+2# You can change the name if you want... <br>
+3# Create a webhook or copy the link if you have an existing one... <br>
+4# Edit the server.lua in lines 4, 5, 6 and change webhooks and username... <br>
+5# You are done. Open your server and if you have done everything correctly, the logging will work... <br>
