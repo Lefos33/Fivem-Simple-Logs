@@ -3,12 +3,12 @@
 
 <strong>Join - Leave Logs contain: </strong> <br>
 
-1# Steam Name <br>
-2# Steam ID <br>
-3# IP <br> 
-4# GTA License <br>
-5# Discord Tag (@Test#6969) <br>
-6# In leave logs, reason <br>
+1. Steam Name <br>
+2. Steam ID <br>
+3. IP <br> 
+4. GTA License <br>
+5. Discord Tag (@Test#6969) <br>
+6. In leave logs, reason <br>
 <br><br>
 
 <strong>This script: </strong> <br>
